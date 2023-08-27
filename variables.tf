@@ -1,1 +1,2 @@
 variable "vpcname" {}
+variable "bucketname" {}
